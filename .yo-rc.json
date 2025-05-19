@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "bugTrackerJHipster",
+    "buildTool": "maven",
+    "cacheProvider": "redis",
+    "clientFramework": "react",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1747693672753,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "enableHibernateCache": true,
+    "enableTranslation": true,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "ODQyMTQxMTM0YmNmZjlkYTBjMzcyMzQ1MzM2MjRmNjg0ZWRmNDM1OTMzMmIyYzg2NWY3Njg2ODIyMjY4NWIwNWE1YmY1ZTkxMTg4NTFmMDA3OWIxODFlNDZmMzIzMmZhNTYxNTJkZjRmZWU3NjcxZGJkOTQzM2RlMzI5MThlMWE=",
+    "languages": ["en"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.mycompany.myapp",
+    "prodDatabaseType": "postgresql",
+    "reactive": false,
+    "serverPort": null,
+    "serviceDiscoveryType": null,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
